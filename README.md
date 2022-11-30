@@ -8,6 +8,8 @@ Currently I am learning python and HTML.
  Learning is definitely the operative word 😬  
 I’m comfortable with markdown, though in time I hope to be comfortable with other markup languages.
 
+![](https://github.com/IssameAga/IssameAga/blob/main/learning_gif.htm)
+
 You can reach me @ 
 - IG: @agatha_OG
 - *RIP TWITTER* 😭
